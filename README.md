@@ -13,3 +13,9 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+# Link to the other repository
+
+Tasks 11.21 and 11.22 were done on my Retsipi app:
+
+https://github.com/Vrezerino/Retsipi
